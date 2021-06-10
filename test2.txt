@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes from right
+=======
+changes from left
+>>>>>>> d7b737a5cd8983dd1249e6a5a28428648b863d30
